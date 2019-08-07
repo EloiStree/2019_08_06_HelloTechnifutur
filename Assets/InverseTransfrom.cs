@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ReloadScene : MonoBehaviour
+public class InverseTransfrom : MonoBehaviour
 {
-
     // Start is called before the first frame update
     void Start()
     {

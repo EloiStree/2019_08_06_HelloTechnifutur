@@ -13,6 +13,12 @@ public class Ex_MovingSky : MonoBehaviour
     {
         Vector2 offset = m_skyMaterial.GetTextureOffset("_MainTex");
         offset.x += Time.deltaTime* m_speed;
+        if (offset.x < 0)
+            offset.x = 1f;
+        if (offset.x > 1)
+            offset.x = 0f;
+
         m_skyMaterial.SetTextureOffset("_MainTex", offset);
+       
     }
 }

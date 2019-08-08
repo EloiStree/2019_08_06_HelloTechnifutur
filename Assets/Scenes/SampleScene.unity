@@ -2991,7 +2991,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_euler: {x: 0, y: 0, z: 0}
-  m_gizmoObject: {fileID: 0}
+  m_gizmoObject: {fileID: 214524985}
 --- !u!1001 &1887667220
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -2,9 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Hello : MonoBehaviour
+public class Ex_MapCreatedByTexture : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public Texture2D  m_texture;
+    public GameObject m_prefab;
+
+    public void CreateMap() {
+
+    }
     void Start()
     {
         

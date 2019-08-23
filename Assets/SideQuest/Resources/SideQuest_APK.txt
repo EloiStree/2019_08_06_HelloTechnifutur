@@ -1,0 +1,25 @@
+"##APKPACKAGENAME##": [
+            {
+                "added": 1558569601000,
+                "apkName": "##DOWNLOADAPKURL##",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "##MINAPKVERSION##",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "##APKPACKAGENAME##",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "##MINAPKVERSION##",
+                "versionCode": 113,
+                "versionName": "0.0.1",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],

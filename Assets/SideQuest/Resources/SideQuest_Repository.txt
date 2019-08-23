@@ -1,0 +1,8 @@
+"repo": {
+        "timestamp": 1558569601000,
+        "version": 21,
+        "name": "##REPONAME##",
+        "icon": "##ICONNAME##", 
+        "address":"##URLOFREPO##",
+        "description": "##DESCRIPTIONOFREPO##"
+    },

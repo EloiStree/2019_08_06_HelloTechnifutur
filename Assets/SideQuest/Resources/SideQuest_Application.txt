@@ -1,0 +1,19 @@
+{
+            "antiFeatures": [],
+            "categories": [
+                "##APPCATEGORY##"
+            ],
+            "suggestedVersionName": "0.0.1",
+            "suggestedVersionCode": "1",
+            "description": "##FULLAPPDESCRIPTION##",
+            "issueTracker": "##BUGANDISSUETRACKERURL##",
+            "license": "FREE",
+            "name": "##APPNAME##",
+            "sourceCode": "##CONTACTORSOURCECODE##",
+            "summary":     "##ONELINEDESCRIPTION##",
+            "webSite": "##GAMEWEBSITE##",
+            "added": 1558569601000,
+            "icon": "##APPICON##",
+            "packageName": "##APKPACKAGENAME##",
+            "lastUpdated": 1558569601000
+        },
